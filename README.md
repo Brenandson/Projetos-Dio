@@ -1,2 +1,5 @@
 # Repositório - desafios e projetos DIO
-Todos os desafios executados na plataforma da DIO
+Aqui tudo que aprendi na plataforma da DIO 🖥️
+
+## Links Úteis
+[Sintaxe básica Markdown](https://www.markdownguide.org/basic-sintax/)
